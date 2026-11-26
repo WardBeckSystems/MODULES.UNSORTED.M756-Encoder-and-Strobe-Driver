@@ -32,7 +32,7 @@ Wiki page: [M756](../../../../PAGES/M756.md)
 - **Closed boxes:** 17
 - **Wiring (first pass):** 80 connected wire groups from 683 runs
 
-Every curve, box, word and wire group: [1971 - 756-02-001 - ENCODER AND STROBE DRIVER SCHEMATIC - DRN PHIL - ISS 1 (2) (traced).json](../SCHEMATICS/1971%20-%20756-02-001%20-%20ENCODER%20AND%20STROBE%20DRIVER%20SCHEMATIC%20-%20DRN%20PHIL%20-%20ISS%201%20(2)%20(traced).json) (the CAD file: `1971 - 756-02-001 - ENCODER AND STROBE DRIVER SCHEMATIC - DRN PHIL - ISS 1 (2) (traced).dxf`).
+Every curve, box, word and wire group: [1971 - 756-02-001 - ENCODER AND STROBE DRIVER SCHEMATIC - DRN PHIL - ISS 1 (2) (traced).json](../SCHEMATICS/1971%20-%20756-02-001%20-%20ENCODER%20AND%20STROBE%20DRIVER%20SCHEMATIC%20-%20DRN%20PHIL%20-%20ISS%201%20%282%29%20%28traced%29.json) (the CAD file: `1971 - 756-02-001 - ENCODER AND STROBE DRIVER SCHEMATIC - DRN PHIL - ISS 1 (2) (traced).dxf`).
 
 ## Full text
 
