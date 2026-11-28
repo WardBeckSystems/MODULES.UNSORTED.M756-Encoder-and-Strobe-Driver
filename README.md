@@ -1,16 +1,12 @@
-# M756 Encoder and Strobe Driver · Unsorted
+# M756 Encoder and Strobe Driver · Communication
 
 Ward-Beck Systems M756, 1971|4. Wiki page: [M756 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M756.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 9 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 2 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 1 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 1 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 4 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 8 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 3 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 2 |
 
 ## Schematics
@@ -28,7 +24,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1971 - 756-02-001 - ENCODER AND STROBE DRIVER SCHEMATIC - DRN PHIL - ISS 1 (2).kicad_sch](KICAD/1971%20-%20756-02-001%20-%20ENCODER%20AND%20STROBE%20DRIVER%20SCHEMATIC%20-%20DRN%20PHIL%20-%20ISS%201%20(2).kicad_sch)
 - [1971 - 756-02-001 - ENCODER AND STROBE DRIVER SCHEMATIC - DRN PHIL - ISS 1.kicad_sch](KICAD/1971%20-%20756-02-001%20-%20ENCODER%20AND%20STROBE%20DRIVER%20SCHEMATIC%20-%20DRN%20PHIL%20-%20ISS%201.kicad_sch)
 - [M756.kicad_sym](KICAD/M756.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
