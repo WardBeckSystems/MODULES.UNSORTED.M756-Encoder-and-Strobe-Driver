@@ -1,5 +1,5 @@
 # 1971 - 756-02-001 - ENCODER AND STROBE DRIVER SCHEMATIC - DRN PHIL - ISS 1.jpg
-Wiki page: [M756](../../../../PAGES/M756.md)
+Wiki page: [M756](../)
 
 
 - **Year:** 1971 (title block date)

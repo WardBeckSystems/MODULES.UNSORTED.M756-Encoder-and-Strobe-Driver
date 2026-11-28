@@ -1,6 +1,6 @@
 # M756 Encoder and Strobe Driver · Communication
 
-Ward-Beck Systems M756, 1971|4. Wiki page: [M756 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M756.html)
+Ward-Beck Systems M756, 1971|4. Wiki page: [M756 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M756-Encoder-and-Strobe-Driver/)
 
 | Folder | What is in it | Files |
 |---|---|---|
